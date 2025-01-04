@@ -1,0 +1,17 @@
+ul li {
+    list-style: none;
+}
+
+.navBar {
+    display:flex;
+    justify-content: space-between;
+}
+
+.navLinks ul {
+    display: flex;
+    justify-content: space-evenlya;
+}
+
+ul li a {
+    text-decoration: none;
+}
